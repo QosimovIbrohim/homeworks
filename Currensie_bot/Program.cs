@@ -9,5 +9,6 @@ class Project
         const string MyBotToken = "6472325940:AAGj_B19PayR_mNqhtpQsA9rbFZS9MRz3tM";
         BotMethods bot = new BotMethods(MyBotToken);
         await bot.BotHandle();
+        //ishlashi kerak adashmasam
     }
 }

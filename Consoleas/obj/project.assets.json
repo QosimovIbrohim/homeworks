@@ -91,11 +91,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\Consoleas\\Consoleas.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\homeworks\\Consoleas\\Consoleas.csproj",
       "projectName": "Consoleas",
-      "projectPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\Consoleas\\Consoleas.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\homeworks\\Consoleas\\Consoleas.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\Consoleas\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\homeworks\\Consoleas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

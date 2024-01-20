@@ -95,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\Currensie_bot\\Currensie_bot.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\homeworks\\Currensie_bot\\Currensie_bot.csproj",
       "projectName": "Currensie_bot",
-      "projectPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\Currensie_bot\\Currensie_bot.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\homeworks\\Currensie_bot\\Currensie_bot.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\Currensie_bot\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\vs\\TelegramBot\\homeworks\\Currensie_bot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

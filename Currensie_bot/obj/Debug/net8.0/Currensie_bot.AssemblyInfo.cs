@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Currensie_bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f31b50231f59cbacb7369de49934b65ac88d89c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Currensie_bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Currensie_bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
